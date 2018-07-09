@@ -1,6 +1,6 @@
 {
   "name": "@permettezmoideconstruire/traverse-geojson",
-  "version": "0.0.3",
+  "version": "0.0.1-alpha",
   "description": "Deeply map geojson object to traverse it's coordinates, and more",
   "main": "dist/traverse-geojson.js",
   "scripts": {
